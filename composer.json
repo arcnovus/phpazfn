@@ -1,0 +1,7 @@
+{
+  "require": {
+    "videlalvaro/azserverless": "*"
+  },
+  "minimum-stability": "dev",
+  "prefer-stable": true
+}
