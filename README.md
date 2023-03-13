@@ -34,8 +34,8 @@ This is a simple example of a PHP Azure Function.
 
 ### 4. Run `func start` to start the function.
 
-### 5. After 1 minute, the function should print the following message to the terminal:
+### 5. After 1 minute, the function should print something like the following message to the terminal:
 
 ```text
-Timer trigger invoked
+[YYYY-MM-DDTHH:MM:SS.sssssss+00:00] serverless.INFO: Timer trigger invoked
 ```
